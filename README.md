@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kuiyang Yang
+- 👋 Hi, I’m Kuiyang 
 - 👀 I’m interested in computational design
 - 🌱 I’m currently a graduate student of Carnegie Mellon University
 - 💞️ I’m looking for something fun
